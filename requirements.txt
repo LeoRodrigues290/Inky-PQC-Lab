@@ -1,0 +1,4 @@
+qiskit>=1.0
+qiskit-aer>=0.13
+liboqs-python>=0.9
+pqcrypto>=0.1
