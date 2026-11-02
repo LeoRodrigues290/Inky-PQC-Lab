@@ -16,4 +16,4 @@ Dada uma função booleana $f: \{0,1\}^n \to \{0,1\}$, determine se $f$ é:
 2. Aplica portas Hadamard $H^{\otimes (n+1)}$ gerando kickback de fase.
 3. Consulta o oráculo $U_f$.
 4. Aplica Hadamard $H^{\otimes n}$ nos primeiros $n$ qubits.
-5. Mede: se todos forem $|0\rangle$, $f$ é constante; caso contrário, é balanceada.\n
+5. Mede: se todos forem $|0\rangle$, $f$ é constante; caso contrário, é balanceada.
